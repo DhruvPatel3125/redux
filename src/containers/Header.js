@@ -11,7 +11,7 @@ const Header = () => {
         <div className="ui container">
           {/* Logo */}
           <Link to="/" className="header item" style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
-          MegaMart 
+            MegaMart 
           </Link>
 
           {/* Desktop Menu Links */}
