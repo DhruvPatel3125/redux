@@ -54,7 +54,7 @@ const ProductComponent = () => {
                   />
                 </div>
 
-                {/* Content Section */}
+                {/* Content Section. */}
                 <div className="content" style={{ padding: "15px", textAlign: "center" }}>
                   <div
                     className="header"
